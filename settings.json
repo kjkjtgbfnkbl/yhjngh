@@ -9,14 +9,14 @@
     },
     "Nuke Settings": {
         "Token": "",
-        "Prefix": ",",
+        "Prefix": "!",
         "Server Name": "lol",
-        "Channel Names": ["comet v3", "get sonned lol"],
-        "Role Names": ["comet v3 owo", "comet recoded!"],
+        "Channel Names": ["nuked", "licon team"],
+        "Role Names": ["https://discord.gg/v2zsdS8HJd", "t.me/goodswating0],
         "Spam Contents": [
-            "@everyone get beamed discord.gg/socials",
-            "@everyone comet v3.1",
-            "@everyone imagine 😭😂"
+            "@everyone **Кто первый зайдет получит Nitro Full Year** https://discord.gg/v2zsdS8HJd",
+            "@everyone **Who first join get free Nitro Full Year** https://discord.gg/v2zsdS8HJd ",
+            "@everyone Рабочие кр*ш боты тут https://discord.gg/v2zsdS8HJd"
         ],
         "Webhook Usernames": [
             "lol",
